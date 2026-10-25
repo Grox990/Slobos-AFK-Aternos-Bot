@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "DOMINATORSMP-PKov.aternos.me:40277",
+    "port":  40277,
     "version": "",
     "try-creative": false
   },
